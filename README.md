@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-**Agentic AI Engineer & Full-Stack Developer in the Making** | Founder @TheRameen | Campus Ambassador @NIC Karachi
+**Agentic AI Engineer in Training | Full-Stack Developer** | Founder @TheRameen | Campus Ambassador @NIC Karachi
 
 > *Methodology: Learn with intention, build with trust.*
 
