@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFC300&height=180&section=header&text=Rameen%20Afzal&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%C2%B7%20FDE%20Path&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=180&section=header&text=Rameen%20Afzal&fontSize=44&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%C2%B7%20FDE%20Path&descAlignY=58&descSize=20&stroke=FFFFFF&strokeWidth=1" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer+in+Training;Building+Digital+FTEs;Training+on+the+FDE+Path;Founder+%40TheRameen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer+in+Training;Building+Digital+FTEs;Training+on+the+FDE+Path;Founder+%40TheRameen" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,19 +20,19 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/rameen-afzal23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-F0B90B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-FFD700?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameen-afzal23&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rameen-afzal23&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
   <i>✨ From Commerce to AI Architecture — training, one level at a time. ✨</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 💫 About Me
 
@@ -65,7 +65,7 @@ I came from a Commerce background, not Computer Science. AI Architecture wasn't 
 
 🌱 **Long-term goal:** Build reusable AI capabilities that solve real business problems — permanently, at scale.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 🏅 Certifications
 
@@ -78,7 +78,7 @@ I came from a Commerce background, not Computer Science. AI Architecture wasn't 
 - ✅ Explore Generative AI with Vertex AI Gemini API (Google)
 - ✅ Python Programming Virtual Internship
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -122,7 +122,7 @@ Chatbot, email automation, stock tracker, and task automation scripts.
 
 [🔗 View Project](https://github.com/rameen-afzal23/Agent-Factory-Exam-Preparation-Guide)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -138,7 +138,7 @@ Chatbot, email automation, stock tracker, and task automation scripts.
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP_Server-F0B90B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP_Server-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
@@ -155,27 +155,27 @@ Chatbot, email automation, stock tracker, and task automation scripts.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameen-afzal23&show_icons=true&hide_border=true&theme=dark&title_color=F0B90B&icon_color=F0B90B&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen-afzal23&hide_border=true&theme=dark&ring=F0B90B&fire=F0B90B" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rameen-afzal23&show_icons=true&hide_border=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen-afzal23&hide_border=true&theme=dark&ring=FFD700&fire=FFD700" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameen-afzal23&hide_border=true&theme=dark&title_color=F0B90B&text_color=ffffff&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameen-afzal23&hide_border=true&theme=dark&title_color=FFD700&text_color=ffffff&layout=compact" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameen-afzal23&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rameen-afzal23&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:F0B90B&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
 
 ## 🤝 Let's Connect
 
 I'm always open to AI projects, collaborations, and conversations with fellow learners and builders. If something here resonates, reach out on **[LinkedIn](https://www.linkedin.com/in/rameenafzal23)** or drop an **[email](mailto:rameenafzal.contact@gmail.com)** — let's build and grow together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:F0B90B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=100&section=footer" width="100%"/>
