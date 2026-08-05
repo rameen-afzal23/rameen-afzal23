@@ -160,16 +160,15 @@ Chatbot, email automation, stock tracker, and task automation scripts.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameen-afzal23&show_icons=true&hide_border=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&cache_seconds=1" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=rameen-afzal23&hide_border=true&theme=dark&ring=FFD700&fire=FFD700" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=rameen-afzal23&hide_border=true&theme=dark&ring=FFD700&fire=FFD700" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameen-afzal23&hide_border=true&theme=dark&title_color=FFD700&text_color=ffffff&layout=compact&cache_seconds=1" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rameen-afzal23&hide_border=true&theme=dark&title_color=FFD700&text_color=ffffff&layout=compact" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameen-afzal23&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameen-afzal23&theme=github-compact&bg_color=0D0D0D&color=FFD700&line=FFD700&point=ffffff&hide_border=true" width="90%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:D4AF37,50:FFD700,75:D4AF37,100:0D0D0D&height=3&width=100%" width="100%"/>
