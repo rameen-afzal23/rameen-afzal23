@@ -90,7 +90,7 @@ Pakistan's most comprehensive public AI Health Assistant — 7 specialized AI ex
 
 🏆 AI Seekho 2026 Silver Tier &nbsp;|&nbsp; 📈 14,000+ LinkedIn impressions
 
-[🔗 Live App](https://sehat-ai-788936967728.us-central1.run.app/)
+[🔗 Live App](https://sehat-ai-788936967728.us-central1.run.app/) &nbsp;|&nbsp; [🎥 Video Demo](https://lnkd.in/p/dbgzQ-H8)
 
 ---
 
