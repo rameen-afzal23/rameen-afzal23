@@ -167,10 +167,6 @@ Chatbot, email automation, stock tracker, and task automation scripts.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rameen-afzal23&hide_border=true&theme=dark&title_color=FFD700&text_color=ffffff&layout=compact" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameen-afzal23&theme=github-compact&bg_color=0D0D0D&color=FFD700&line=FFD700&point=ffffff&hide_border=true" width="90%"/>
-</p>
-
 ## 🤝 Let's Connect
 
 I'm always open to AI projects, collaborations, and conversations with fellow learners and builders. If something here resonates, reach out on **[LinkedIn](https://www.linkedin.com/in/rameenafzal23)** or drop an **[email](mailto:rameenafzal.contact@gmail.com)** — let's build and grow together!
